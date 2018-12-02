@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="Button_name">Play</string>
+    <string name="instruction_shapes">You have 10 seconds to memorize the order and color of the shapes</string>
+    <string name="instruction_questions">You have 15 seconds to select the answer choice which matches the order and color of the shapes on the previous page.</string>
+    <string name="Radio_answer1"> </string>
+    <string name="Radio_answer2"> </string>
+    <string name="Radio_answer3"> </string>
+    <string name="Button_next">Next</string>
+    <string name="correct_answer">1</string>
+</resources>

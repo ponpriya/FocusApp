@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.shapes">
+
+    <application
+        android:allowBackup="false"
+        android:debuggable="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.WELCOME" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.ACTIONVIEW" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Quiz" />
+        <activity android:name=".Question2" />
+        <activity android:name=".Quiz2" />
+        <activity android:name=".Question3" />
+        <activity android:name=".Quiz3" />
+        <activity android:name=".Question4" />
+        <activity android:name=".Quiz4" />
+        <activity android:name=".Question5" />
+        <activity android:name=".Quiz5" />
+        <activity android:name=".Question6" />
+        <activity android:name=".Quiz6" />
+        <activity android:name=".Question7" />
+        <activity android:name=".Quiz7" />
+        <activity android:name=".Question8" />
+        <activity android:name=".Quiz8" />
+        <activity android:name=".Question9" />
+        <activity android:name=".Quiz9" />
+        <activity android:name=".Question10" />
+        <activity android:name=".Quiz10" />
+        <activity android:name=".Question11" />
+        <activity android:name=".Quiz11" />
+        <activity android:name=".Question12" />
+        <activity android:name=".Quiz12" />
+        <activity android:name=".Question13" />
+        <activity android:name=".Quiz13" />
+        <activity android:name=".Question14" />
+        <activity android:name=".Quiz14" />
+        <activity android:name=".Question15" />
+        <activity android:name=".Quiz15"></activity>
+    </application>
+
+</manifest>
